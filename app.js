@@ -6,16 +6,14 @@ document.addEventListener('DOMContentLoaded', () => {
     console.table(animals)
 
     //select header by id
-    const header = document.getElementById("head")
+
 
     //console.log(header) what do you think you'll see?
     // console.log(header)
 
     //change color of header text
-    header.style.color = "red"
 
     //select card container div by class
-    const cardContainer = document.querySelector(".card-container")
 
 
 
@@ -29,22 +27,19 @@ document.addEventListener('DOMContentLoaded', () => {
         const animalImage = animal.image
 
         //create <div> element for card
-        const cardDiv = document.createElement("div")
+
 
 
         //add "card" class to card div
         //write code on whiteboard
-        cardDiv.className = "card"
+
 
         //append "card" div to cardContainer
-        cardContainer.appendChild(cardDiv)
 
-
-        console.log(cardContainer)
 
         //create image element
 
-        
+
         //console.log image
 
         //add class name attribute to image element
