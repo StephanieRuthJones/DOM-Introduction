@@ -15,7 +15,7 @@ const animals = [
     {
         id: 3,
         name: "monkeys",
-        image: 'https://pics.drugstore.com/prodimg/576126/900.jpg',
+        image: 'https://images.unsplash.com/photo-1430462773665-fd261133b47f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1955&q=80',
         description: 'Tree banana rainforest poo spider arboreal endangered capuchin zoo space monkey monkey primate new world howler baby exotic. Tree rainforest monkey endangered new world poo space monkey baby exotic capuchin zoo howler primate banana arboreal spider. '
     },
     {
