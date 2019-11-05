@@ -21,10 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     //map through the data
     animals.map(animal => {
-        //create variables to reference pieces of data
-        const animalName = animal.name
-        const animalDescription = animal.description
-        const animalImage = animal.image
+        //create animalName, animalDescription, and animalImage variables to reference each piece of data
 
         //create <div> element for card
 
